@@ -1,0 +1,165 @@
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\bin\Debug\NewHRMS.exe
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\bin\Debug\NewHRMS.pdb
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\bin\Debug\NewHRMS.xml
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee.resources
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Resources.resources
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.exe
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.xml
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.pdb
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Department.resources
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Main.resources
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\bin\Debug\CloudToolkitN6.dll
+c:\users\agent-92\documents\visual studio 2010\Projects\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Login.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.exe
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.xml
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.pdb
+D:\Osama_Stuff\NewHRMS\NewHRMS\bin\Debug\NewHRMS.exe
+D:\Osama_Stuff\NewHRMS\NewHRMS\bin\Debug\NewHRMS.pdb
+D:\Osama_Stuff\NewHRMS\NewHRMS\bin\Debug\NewHRMS.xml
+D:\Osama_Stuff\NewHRMS\NewHRMS\bin\Debug\CloudToolkitN6.dll
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Department.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Login.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Main.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Resources.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Calculator.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Admin_Login.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Search.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_News.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_PerformanceAll.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee_Performance.resources
+D:\Osama_Stuff\NewHRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_About.resources
+C:\Users\Agent-92\Desktop\HRMS\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.exe
+C:\Users\Agent-92\Desktop\HRMS\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.xml
+C:\Users\Agent-92\Desktop\HRMS\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.pdb
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\bin\Debug\NewHRMS.exe
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\bin\Debug\NewHRMS.pdb
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\bin\Debug\NewHRMS.xml
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.vbprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_About.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Admin_Login.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Calculator.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Department.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee_Performance.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Login.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Main.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_News.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_PerformanceAll.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Search.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Resources.resources
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.exe
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.xml
+F:\Sem.4\VB.net Trials\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.pdb
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.exe
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.xml
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.pdb
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\bin\Debug\NewHRMS.exe
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\bin\Debug\NewHRMS.pdb
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\bin\Debug\NewHRMS.xml
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.vbprojResolveAssemblyReference.cache
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_About.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Admin_Login.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Calculator.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Department.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee_Performance.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Login.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Main.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_News.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_PerformanceAll.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Search.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.Resources.resources
+C:\Users\Janobe\Downloads\Compressed\HUMAN_RESOURCE_MANAGEMENT_SYSTEM_IN_VB.NET_WITH_SOURCE_CODE\HumanResourceManagement_VBNET\HRMS\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.GenerateResource.Cache
+C:\Users\Areshah\Downloads\hrms\NewHRMS\bin\Debug\NewHRMS.exe
+C:\Users\Areshah\Downloads\hrms\NewHRMS\bin\Debug\NewHRMS.pdb
+C:\Users\Areshah\Downloads\hrms\NewHRMS\bin\Debug\NewHRMS.xml
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.vbprojAssemblyReference.cache
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_About.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Admin_Login.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Calculator.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Department.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee_Performance.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Login.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Main.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_News.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_PerformanceAll.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Search.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.Resources.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.GenerateResource.cache
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.CoreCompileInputs.cache
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.CopyComplete
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.exe
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.xml
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.pdb
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.frmAddLeave.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.frmAdvance.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.frmAdvanceEntryRecord.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.frm_Payroll.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.frmHistory.resources
+C:\Users\Areshah\Downloads\hrms\NewHRMS\obj\x86\Debug\NewHRMS.frmReports.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.vbprojAssemblyReference.cache
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmAddLeave.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmAdvance.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmAdvanceEntryRecord.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmAdvanceEntryReport.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmHistory.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmReports.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_About.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Admin_Login.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Calculator.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Department.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Employee_Performance.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Login.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Main.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_News.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frm_Payroll.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_PerformanceAll.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Frm_Search.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.Resources.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.GenerateResource.cache
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.CoreCompileInputs.cache
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.exe
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.xml
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.pdb
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\NewHRMS.exe.config
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\NewHRMS.exe
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\NewHRMS.pdb
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\NewHRMS.xml
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\bin\Debug\stdole.dll
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.vbproj.CopyComplete
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmAttendance.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmAttendanceReport.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmDeductionEntryRecord.resources
+C:\Users\Areshah\Documents\Visual Studio 2019\hrms ok\NewHRMS\obj\x86\Debug\NewHRMS.frmEmployeeAttendanceRecord.resources

@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A57C032D-D30C-4B29-9B08-C15E0DEE81BB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>NewHRMS.My.MyApplication</StartupObject>
+    <RootNamespace>NewHRMS</RootNamespace>
+    <AssemblyName>NewHRMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NewHRMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NewHRMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CloudToolkitN6">
+      <HintPath>D:\Osama_Stuff\University Work\.Net Work\.Net Softs\CloudToolkitN6.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection.vb" />
+    <Compile Include="frmAddLeave.Designer.vb">
+      <DependentUpon>frmAddLeave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddLeave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdvance.Designer.vb">
+      <DependentUpon>frmAdvance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdvance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdvanceEntryRecord.Designer.vb">
+      <DependentUpon>frmAdvanceEntryRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdvanceEntryRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdvanceEntryReport.Designer.vb">
+      <DependentUpon>frmAdvanceEntryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdvanceEntryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendance.Designer.vb">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendanceReport.Designer.vb">
+      <DependentUpon>frmAttendanceReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendanceReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeductionEntryRecord.Designer.vb">
+      <DependentUpon>frmDeductionEntryRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeductionEntryRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeAttendanceRecord.Designer.vb">
+      <DependentUpon>frmEmployeeAttendanceRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeAttendanceRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistory.Designer.vb">
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.Designer.vb">
+      <DependentUpon>frmReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_About.Designer.vb">
+      <DependentUpon>Frm_About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Admin_Login.Designer.vb">
+      <DependentUpon>Frm_Admin_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Admin_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Calculator.Designer.vb">
+      <DependentUpon>Frm_Calculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Department.Designer.vb">
+      <DependentUpon>Frm_Department.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Department.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee.Designer.vb">
+      <DependentUpon>Frm_Employee.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Performance.Designer.vb">
+      <DependentUpon>Frm_Employee_Performance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Performance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login.Designer.vb">
+      <DependentUpon>Frm_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main.Designer.vb">
+      <DependentUpon>Frm_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_News.Designer.vb">
+      <DependentUpon>Frm_News.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_News.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Payroll.Designer.vb">
+      <DependentUpon>frm_Payroll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Payroll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_PerformanceAll.Designer.vb">
+      <DependentUpon>Frm_PerformanceAll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_PerformanceAll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Search.Designer.vb">
+      <DependentUpon>Frm_Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAddLeave.resx">
+      <DependentUpon>frmAddLeave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdvance.resx">
+      <DependentUpon>frmAdvance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdvanceEntryRecord.resx">
+      <DependentUpon>frmAdvanceEntryRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdvanceEntryReport.resx">
+      <DependentUpon>frmAdvanceEntryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendance.resx">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendanceReport.resx">
+      <DependentUpon>frmAttendanceReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeductionEntryRecord.resx">
+      <DependentUpon>frmDeductionEntryRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeAttendanceRecord.resx">
+      <DependentUpon>frmEmployeeAttendanceRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistory.resx">
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_About.resx">
+      <DependentUpon>Frm_About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Admin_Login.resx">
+      <DependentUpon>Frm_Admin_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Calculator.resx">
+      <DependentUpon>Frm_Calculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Department.resx">
+      <DependentUpon>Frm_Department.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee.resx">
+      <DependentUpon>Frm_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Performance.resx">
+      <DependentUpon>Frm_Employee_Performance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login.resx">
+      <DependentUpon>Frm_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Main.resx">
+      <DependentUpon>Frm_Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_News.resx">
+      <DependentUpon>Frm_News.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Payroll.resx">
+      <DependentUpon>frm_Payroll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_PerformanceAll.resx">
+      <DependentUpon>Frm_PerformanceAll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Search.resx">
+      <DependentUpon>Frm_Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wizard12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Binoculars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ktimer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kuser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kwrite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kxconfig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kxconfig1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\looknfeel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mycomputer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mydocuments.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mymac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package_editorspackage_editors.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package_edutainment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solutions.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wizard1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Touch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Syringe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_Areshah.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
